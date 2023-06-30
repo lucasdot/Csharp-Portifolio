@@ -1,0 +1,1 @@
+Programa particular em prompt, para testar meus conhecimentos.
